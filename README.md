@@ -7,7 +7,7 @@ The data set used in this project was provided by Wuzzuf jobs in Egypt data set 
 
 > The project purpose was to build all java needed classes (POJO , DAO, ..)
 
-1. Read data set and convert it to dataframe or Spark RDD and display some from it.
+1. Read data set and convert it to dataframe and display some from it.
 2. Display structure and summary of the data.
 3. Clean the data (null, duplications)
 4. Count the jobs for each company and display that in order (What are the most demanding companies for jobs?)
